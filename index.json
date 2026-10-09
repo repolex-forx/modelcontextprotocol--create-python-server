@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "create-python-server",
+  "versions": [
+    {
+      "commit": "b07744de4f10e92cfd1a98b51f7aac8ee5805d69",
+      "tag": "main",
+      "parsed_at": "2026-10-09T07:06:09.405023+00:00"
+    }
+  ]
+}
