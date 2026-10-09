@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "modelcontextprotocol",
+  "repo": "create-python-server",
+  "versions": [
+    {
+      "commit": "b07744de4f10e92cfd1a98b51f7aac8ee5805d69",
+      "parsed_at": "2026-10-09T04:10:59.562703+00:00",
+      "tag": "main",
+      "filetree": "filetree/b07744de4f10e92cfd1a98b51f7aac8ee5805d69.nq.gz",
+      "blobs": [
+        "blob/a7e7a8bf13236f9da3e5e6ccfe5916e9e16db35d.nq.gz",
+        "blob/a66ea9a7f804c5084b45a30794ad976286d2cfef.nq.gz",
+        "blob/05c32c6053c1edd9a2faaf1b6ebf565c6650fa28.nq.gz",
+        "blob/c35655dd2cc66b91798af12882f116bcff2ddf63.nq.gz",
+        "blob/d6d45650a50268beffa75270e42e518272fde08c.nq.gz",
+        "blob/b54038da0dff76103fb87c83338de21b1aa65eb7.nq.gz",
+        "blob/c679ff384d7e7f313aebf670445ab80b0747c3ac.nq.gz",
+        "blob/fe64dba0c061980789add1ac4cbaf1428aedee8a.nq.gz",
+        "blob/15170e59a50c9d8a471ef8e43b8f00089d9f7829.nq.gz",
+        "blob/82f927558a3dff0ea8c20858856e70779fd02c93.nq.gz",
+        "blob/5e0d240c493a8555d4188bba6c07a433e3c08a5f.nq.gz",
+        "blob/bc39f5cb127e6c1b87818982bdd84e333bced96f.nq.gz",
+        "blob/50073fa0558919f827734bf19794e9e64a911071.nq.gz",
+        "blob/6293767d67a46b2d8c76330d20dc062dffd2dd5f.nq.gz",
+        "blob/fddf83fa767819f66715778de7133ad2e8d0b457.nq.gz",
+        "blob/3d48435454b105021b4f777c11b6b07d8d2ffea3.nq.gz",
+        "blob/37a2a5ad2991c15f862556b86b733afd9101f240.nq.gz",
+        "blob/c8cfe3959183f8e9a50f83f54cd723f2dc9c252d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
