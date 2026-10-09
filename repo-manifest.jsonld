@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/create-python-server/commit/b07744de4f10e92cfd1a98b51f7aac8ee5805d69",
       "git:hexsha": "b07744de4f10e92cfd1a98b51f7aac8ee5805d69",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
