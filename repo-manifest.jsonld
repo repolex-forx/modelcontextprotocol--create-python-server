@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/create-python-server/commit/b07744de4f10e92cfd1a98b51f7aac8ee5805d69",
       "git:hexsha": "b07744de4f10e92cfd1a98b51f7aac8ee5805d69",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T07:06:09.404595+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/create-python-server/commit/c79927defb5c467892fb20d8eb461e487a7c007e",
